@@ -1,0 +1,15 @@
+{
+  "name": "com.arena.leaderboards",
+  "version": "1.0.0",
+  "displayName": "Arena LeaderBoards",
+  "description": "LeaderBoards package",
+  "unity": "2022.3",
+ "keywords": [
+    "leaderboards"    
+  ],
+  "author": {
+    "name": "Alex",
+    "email": "sony.ba6@gmail.com",
+    "url": "https://github.com/romaster28"
+  }
+}
